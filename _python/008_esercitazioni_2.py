@@ -48,3 +48,4 @@ print(stringa_replaced)
 #### OPPURE
 stringa = "Ciao Mondo"
 print(stringa.replace("o", "k").upper()[-5:])
+#ciao
