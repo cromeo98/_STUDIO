@@ -46,6 +46,8 @@ else:
 # ho una lista della spesa, se è vuota non devo andare al supermercato, altrimenti sì
 lista_della_spesa = ["pane", "uova", "pasta"]
 if lista_della_spesa: #se la lista non contiene valori sarà False, se al contrario li conterrà sarà True
-    print("Andare a fare la spesa")
+    print("Andare a fare la spesa, comprare:")
+    for prodotto in lista_della_spesa:
+        print(prodotto)
 else:
     print("Non serve andare al supermercato")
