@@ -11,7 +11,7 @@
 # rimuovere elementi con workaround oppure cancellare tutto con del()
 # spacchettare una tupla (unpack) e con *
 # ciclare gli elementi
-# unire le tuple con join()
+# unire le tuple
 # metodi count() e index()
 
 # creiamo una tupla
@@ -147,4 +147,3 @@ print(x)
 t = tuple(("Milano", "Roma", "Venezia", "Toronto", "Brasilia", "Milano"))
 x = t.index("Milano")
 print(x)
-
