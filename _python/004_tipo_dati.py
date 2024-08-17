@@ -23,34 +23,42 @@ print(type(x))
 # str: x = "ciao"
 x = "ciao"
 print(type(x))
+
 # numero intero
 # int: x = 2
 x = 2
 print(type(x))
+
 # numero decimale, i decimali sono espressi coni l punto "."
 # float: x = 2.5
 x = 2.5
 print(type(x))
+
 # booleano, attenzione, la condizione True o False deve avere l'iniziale maiuscola
 # bool: x = True
 x = True
 print(type(x))
+
 # lista (collezione), tra parentesi quadre - non confondere con gli array
 # list: x = ["milano", "roma", "napoli"]
 x = ["milano", "roma", "napoli"]
 print(type(x))
+
 # tupla (collezione), tra parentesi tonde
 # tuple: x = ("milano", "roma", "napoli")
 x = ("milano", "roma", "napoli")
 print(type(x))
+
 # range, generatore di valori
 # range: x = range(6)       # corrisponde ad una list: x = [0, 1, 2, 3, 4, 5]
 x = range(6)
 print(type(x))
+
 # dizionario, ad ogni chiave corrisponde un valore, tra parentesi graffe e con separazione tra chiavi e valori con due punti ":"
 # dict: x = {"nome": "Christian", "eta": 25}
 x = {"nome": "Christian", "eta": 25}
 print(type(x))
+
 # set, valori separati da parentesi graffe
 # set: x = {"milano", "roma", "napoli"}
 x = {"milano", "roma", "napoli"}
