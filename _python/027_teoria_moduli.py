@@ -30,7 +30,7 @@ ms.saluta("Paolo")
 
 # conseguentemente, "modulo_saluti" non sarà più utilizzabile
 
-# in python esistono già tanti moduli molto utili, ad esempio math, che ci permette di eseguire operazioni matematiche particolari
+# in python esistono già tanti moduli molto utili, chiamati moduli built in, ad esempio math, che ci permette di eseguire operazioni matematiche particolari
 # la modalità di import non cambia
 import math as ma
 
