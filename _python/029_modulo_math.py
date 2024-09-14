@@ -2,6 +2,7 @@
 # in python di base possiamo svolgere operazioni aritmetiche di base
 # ci sono anche delle funzioni matematiche built-in (min, max, abs, pow)
 # con math, le opzioni sono:
+
 # Costanti
 # math.pi: Il valore della costante π (pi greco).
 # math.e: Il valore della costante e (numero di Eulero, base dei logaritmi naturali).
